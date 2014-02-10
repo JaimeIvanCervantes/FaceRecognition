@@ -2,7 +2,7 @@
 Introduction
 ============
 
-The motivation of this project, is to implement several techniques for face recognition:
+The motivation of this project is to implement several techniques for face recognition:
 
 * Principal Component Analysis
 * Fisher’s Linear Discriminant Analysis
